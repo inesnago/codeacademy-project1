@@ -1,0 +1,7 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head-image{
+    background-image: url(images/pattern-head.webp);
+}
